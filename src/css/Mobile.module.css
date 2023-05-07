@@ -1,0 +1,83 @@
+.section3 {
+    width: 80%;
+    margin: auto;
+    height: 450px;
+    border-radius: 10px;
+    display: flex;
+    box-shadow: 1px 1px 5px 5px #545757;
+    position: absolute;
+    left: 100px;
+    top: 1750px;
+    z-index: 1;
+    background-color: #fff;
+
+
+}
+
+.boxtextomobile {
+    width: 50%;
+    margin: auto;
+    height: 300px;
+
+}
+
+h4 {
+    width: 95%;
+    font-weight: 600;
+    font-size: 30px;
+    margin: auto;
+    margin-left: 20px;
+}
+
+.ptextomobile {
+    margin-left: 20px;
+    margin-top: 40px;
+    font-size: 20px;
+}
+
+span {
+    color: #1D4273;
+}
+
+
+.boximgcelular {
+    width: 60%;
+    height: 400px;
+    margin: auto;
+    background-image: url(../imagens/iPhone.png);
+    background-size: cover;
+
+}
+
+.mobile {
+    display: flex;
+    margin-left: 40px;
+    margin-top: 60px;
+
+}
+
+.OU {
+    font-size: 30px;
+    margin-right: 30px;
+}
+
+.play_store {
+    width: 30%;
+    margin-right: 30px;
+}
+
+.boxparceiros {
+
+    height: 250px;
+    background-color: #1D4273;
+    margin-top: 400px;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.ipison {
+    margin-top: 120px;
+    width: 15%;
+    height: 50px;
+}

@@ -1,0 +1,93 @@
+.section2{
+    height: 450px;
+    display: flex;
+}
+h6{
+    font-size: 20px;
+}
+h3{
+    font-size: 40px;
+}
+.boxtextoavaliacao{
+    width: 40%;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.pavaliacao{
+    font-size: 20px;
+}
+.bfaleconosco{
+    margin-top: 60px;
+    padding: 10px 30px 10px 30px;
+    font-size: 15px;
+    margin-left: 50px;
+    border-radius: 5px;
+    background-color: #1D4273;
+    color: #fff;
+    cursor: pointer;
+}
+.boxclientes{
+    width: 50%;
+    display: flex;
+    justify-content: space-around;
+    margin-left: -50px;
+   
+    
+}
+.clientes{
+    margin: auto;
+    width: 45%;
+    height: 350px;
+    background-color: #FEF9F9;
+    border-radius: 7px;
+    box-shadow: 10px 10px 20px 5px;
+    margin-left: -50px;
+    margin-right: 50px;
+    
+}
+.boxminilogo{
+    width: 22%;
+    height: 50px;
+    background-color: #4177A6;
+    float: right;
+    border-radius: 0px 5px 0px 5px;
+    background-image: url(../imagens/minilogo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.boxfoto{
+    width: 35%;
+    height: 100px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 60px;
+    background-image: url(../imagens/homem.png);
+    background-size: cover;
+}
+.nomecliente{
+    font-weight: 800;
+    text-align: center;
+}
+.minitexto{
+    font-weight: 500;
+    font-size: 15px;
+    width: 95%;
+    margin: auto;
+    margin-top: 20px;
+   
+}
+.estrela{
+    margin-top: 40px;
+    text-align: center;
+}
+.boxfoto2{
+    width: 35%;
+    height: 100px;
+    margin: auto;
+    margin-top: 40px;
+    border-radius: 70px;
+    background-image: url(../imagens/mulher.png);
+    background-size: cover;
+}

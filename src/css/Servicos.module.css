@@ -1,0 +1,86 @@
+.section4{
+    height: 500px;
+    background-image: url(../imagens/Rectangle.png);
+    background-size: cover;
+   background-attachment: fixed;
+}
+h5{
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 70px;
+}
+.pservicos{
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+}
+.boxservicos{
+    display: flex;
+    justify-content: space-around;
+
+}
+.servicos1{
+  width: 30%;
+  height: 300px;
+  background-color: #fff;
+  margin-top: 200px;
+  box-shadow: 0px 5px 3px 0px #898484 ;
+
+  
+}
+.subtitulo{
+    font-weight: 800;
+    font-size: 30px;
+     margin-left: 50px;
+    margin-top: 20px;
+}
+.textopriori{
+  font-size: 22px;
+  margin-left: 50px;
+  color: #898484;
+  margin-top: 30px;
+}
+.textopriori2{
+    font-size: 18px;
+    margin-left: 40px;
+    color: #898484;
+    margin-top: 30px;
+  }
+  .textopriori3{
+    font-size: 18px;
+    margin-left: 40px;
+    color: #898484;
+    margin-top: 30px;
+  }
+.agendar{
+    padding: 10px 40px 10px 40px;
+    text-align: center;
+    margin-top: 45px;
+    margin-left:60px;
+    font-size: 15px;
+    color: #fff;
+    background-color: #4177A6;
+    border-radius: 5px;
+}
+.agendar2{
+    padding: 10px 40px 10px 40px;
+    text-align: center;
+    margin-top: 35px;
+    margin-left:70px;
+    font-size: 15px;
+    color: #fff;
+    background-color: #4177A6;
+    border-radius: 5px;
+}
+.agendar3{
+    padding: 10px 40px 10px 40px;
+    text-align: center;
+    margin-top: 56px;
+    margin-left:70px;
+    font-size: 15px;
+    color: #fff;
+    background-color: #4177A6;
+    border-radius: 5px;
+}

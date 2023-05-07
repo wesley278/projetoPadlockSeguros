@@ -1,0 +1,66 @@
+.boxfundo{
+    height: 250px;
+    background-color: #fff;
+}
+.boxfooter{
+    height: 200px;
+    background-color: #7EA1BF;
+    display: flex;
+    justify-content: space-around;
+}
+.boxlogoicon{
+    width: 30%;
+    border-right: 1px solid #fff ;
+}
+.boxlogofooter{
+    width: 30%;
+    height: 100px;
+
+    margin: auto;
+    margin-top: 40px;
+}
+.lgfooter{
+    width: 100%;
+    height: 100%;
+}
+.icons{
+    margin: auto;
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+}
+i{
+     background-color: #fff;
+     color: #7EA1BF;
+     padding: 6px;
+     border-radius: 6px;
+     cursor: pointer;
+}
+.plataformaf{
+    color: #fff;
+    font-weight: 500;
+    font-size: 25px;
+    margin-bottom: 7px;
+}
+.boxplataforma{
+    width: 40%;
+   
+    margin: auto;
+    margin-top: 40px;
+}
+.homef{
+    font-size: 17px;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.sobref{
+    font-size: 17px;
+    color: #fff;  
+    margin-bottom: 10px;
+
+}
+.maisf{
+    font-size: 17px;
+    margin-bottom: 10px;
+    color: #fff;
+}
