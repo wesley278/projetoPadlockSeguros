@@ -1,5 +1,54 @@
 .boxvideo{
     width: 100%;
     height: 450px;
-    background-color: #000;
+    background: url(../imagens/Seguro.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: -290px;
+    
+ 
 }
+.htitulo{
+    font-size: 30px;
+    color: #fff;
+    font-weight: 400;
+    margin-left: 50px;
+    padding-top: 50px;
+   
+}
+.hsubtiutlo{
+    font-size: 20px;
+    color: #e6dede;
+    width: 90%;
+    margin-left: 60px;
+    
+  
+}
+
+.boxtextoh{
+    width: 40%;
+    margin-left: 66px;
+    border-radius: 10px;
+    padding-top: 60px;
+    text-shadow: rgb(150, 148, 148) 0px 4px 3px ;
+}
+
+.agendar{
+    padding: 10px 40px 10px 40px;
+    text-align: center;
+    margin-top: 45px;
+    margin-left:80px;
+    font-size: 15px;
+    color: #fff;
+    background-color: #4177A6;
+    border-radius: 5px;
+    cursor: pointer;
+    text-shadow: rgb(0, 0, 0) 0px 4px 3px ;
+}
+
+.agendar:hover{
+    background-color: #898484;
+    color: #fff;
+    transition: 1s;
+    text-shadow: 1px 1px 2px black;
+  }

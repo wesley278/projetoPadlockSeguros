@@ -1,4 +1,48 @@
 header{
-    text-align: center;
+     display: flex;
     background-color: #F3F5F6;
+    height: 75px;
+    width: 100%;
+   
+}
+.boxlogo{
+   width: 30%;
+}
+.logo{
+    width: 50%;
+    margin-top: 4px;
+}
+.boxmenu{
+    display: flex;
+    justify-content: space-around;
+    margin-left: -60px;
+}
+.links{
+    margin-right: 30px;
+    padding: 20px;
+    cursor: pointer;
+    
+}
+.boxcadastro{
+    display: flex;
+    justify-content: space-around;
+    width: 20%;
+    margin-left: 40px;
+}
+.cadastro{
+    height: 30px;
+    background-color: #4177A6;
+    margin-top: 15px;
+    padding-top: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-right: 20px;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+}
+.cadastro:hover{
+    background-color: #e2e7eb;
+    color: #110f0b;
+    transition: 1s;
 }

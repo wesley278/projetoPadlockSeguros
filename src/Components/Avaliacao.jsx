@@ -8,7 +8,7 @@ function Avaliacao() {
           <h6>Depoimentos</h6>
           <h3>
             Avaliações de <br />
-            clientes{" "}
+            clientes
           </h3>
           <p className={style.pavaliacao}>
             ao lado esta algumas avaliações de nossos clientes

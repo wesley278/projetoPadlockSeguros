@@ -47,6 +47,8 @@ h5{
     margin-left: 40px;
     color: #898484;
     margin-top: 30px;
+    
+    
   }
   .textopriori3{
     font-size: 18px;
@@ -63,6 +65,8 @@ h5{
     color: #fff;
     background-color: #4177A6;
     border-radius: 5px;
+    cursor: pointer;
+    text-shadow: rgb(0, 0, 0) 0px 4px 3px ;
 }
 .agendar2{
     padding: 10px 40px 10px 40px;
@@ -73,6 +77,8 @@ h5{
     color: #fff;
     background-color: #4177A6;
     border-radius: 5px;
+    cursor: pointer;
+    text-shadow: rgb(0, 0, 0) 0px 4px 3px ;
 }
 .agendar3{
     padding: 10px 40px 10px 40px;
@@ -83,4 +89,28 @@ h5{
     color: #fff;
     background-color: #4177A6;
     border-radius: 5px;
+    cursor: pointer;
+    text-shadow: rgb(0, 0, 0) 0px 4px 3px ;
+   
+}
+
+.agendar:hover{
+  background-color: #898484;
+  color: #fff;
+  transition: 1s;
+  text-shadow: 1px 1px 2px black;
+}
+
+.agendar2:hover{
+  background-color: #898484;
+  color: #fff;
+  transition: 1s;
+  text-shadow: 1px 1px 2px black;
+}
+
+.agendar3:hover{
+  background-color: #898484;
+  color: #fff;
+  transition: 1s;
+  text-shadow: 1px 1px 2px black;
 }

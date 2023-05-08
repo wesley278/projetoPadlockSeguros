@@ -11,6 +11,7 @@ import Servicos from './Components/Servicos';
 function App() {
   return (
     <div className="App">
+      
        <Header/>
        <Aside/>
        <Section/>
@@ -18,6 +19,7 @@ function App() {
        <Mobile/>
        <Servicos/>
        <Footer/>
+      
     </div>
   );
 }

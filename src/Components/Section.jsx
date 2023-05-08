@@ -28,28 +28,28 @@ function Section() {
          <div className={style.boxbene}>
             <div className={style.boximgbene}>
              <img className={style.imgbaner} src={coroa} alt="" />
-             <p className={style.pdetalhe}>axauowcwbcucbwcc</p>
+             <p className={style.pdetalhe}>Lider em atendimento</p>
             </div>
          </div>
 
          <div className={style.boxbene}>
             <div className={style.boximgbene}>
              <img className={style.imgbaner} src={personagems} alt="" />
-             <p className={style.pdetalhe}>axauowcwbcucbwcc</p>
+             <p className={style.pdetalhe}>Mais de 1500 clientes</p>
             </div>
          </div>
 
          <div className={style.boxbene}>
             <div className={style.boximgbene}>
              <img className={style.imgbaner} src={mapa} alt="" />
-             <p className={style.pdetalhe}>axauowcwbcucbwcc</p>
+             <p className={style.pdetalhe}>Rua lapa tipo </p>
             </div>
          </div>
 
          <div className={style.boxbene}>
             <div className={style.boximgbene}>
              <img className={style.imgbaner} src={estrela} alt="" />
-             <p className={style.pdetalhe}>axauowcwbcucbwcc</p>
+             <p className={style.pdetalhe}>O melhor avaliado</p>
             </div>
          </div>
       
