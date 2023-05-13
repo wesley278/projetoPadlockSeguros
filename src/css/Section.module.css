@@ -62,7 +62,12 @@ h1{
     margin: auto;
     border-radius: 20px;
     text-align: center;
+    transition: 1s;
 
+}
+.boxbene:hover{
+   scale: 1.1;
+   transition: 1s;
 }
 .imgbaner{
     margin-top: 20px;
